@@ -31,6 +31,9 @@
   z-index: 1;
   color: #fff;
   padding: 20px;
+  /* given position absolute, you need following two lines to stretch across */
+  left: 0;
+  right: 0;
 }
 
 .loginScreen__gradient {
