@@ -30,6 +30,5 @@
 }
 
 .row__posterLarge {
-  transform: scale(1.09);
   max-height: 250px;
 }
