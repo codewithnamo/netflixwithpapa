@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflixwithpapa/static/css/main.2aaea479.chunk.css",
+    "main.js": "/netflixwithpapa/static/js/main.17cb1f1f.chunk.js",
+    "main.js.map": "/netflixwithpapa/static/js/main.17cb1f1f.chunk.js.map",
+    "runtime-main.js": "/netflixwithpapa/static/js/runtime-main.b12bd0da.js",
+    "runtime-main.js.map": "/netflixwithpapa/static/js/runtime-main.b12bd0da.js.map",
+    "static/js/2.4c7a9580.chunk.js": "/netflixwithpapa/static/js/2.4c7a9580.chunk.js",
+    "static/js/2.4c7a9580.chunk.js.map": "/netflixwithpapa/static/js/2.4c7a9580.chunk.js.map",
+    "index.html": "/netflixwithpapa/index.html",
+    "static/css/main.2aaea479.chunk.css.map": "/netflixwithpapa/static/css/main.2aaea479.chunk.css.map",
+    "static/js/2.4c7a9580.chunk.js.LICENSE.txt": "/netflixwithpapa/static/js/2.4c7a9580.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b12bd0da.js",
+    "static/js/2.4c7a9580.chunk.js",
+    "static/css/main.2aaea479.chunk.css",
+    "static/js/main.17cb1f1f.chunk.js"
+  ]
+}
